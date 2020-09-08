@@ -9,7 +9,7 @@
 #puts "Code after if...end"
 
 
-chance_of_rain = 0.3
+chance_of_rain = 0.8
 
 #puts "Let's go outside!"
 
