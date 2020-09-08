@@ -7,3 +7,5 @@ if run_code_inside
   puts "code inside"
 end
 puts "Code after if...end"
+
+chance_of_rain = 0.2
